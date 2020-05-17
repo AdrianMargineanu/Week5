@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Week5</string>
+    <string name="challenge_1">Challenge 1</string>
+    <string name="challenge_2">Challenge 2</string>
+    <string name="challenge_3">Challenge 3</string>
+    <string name="challenge_4">Challenge 4</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="text_one">Text One</string>
+    <string name="text_two">Text Two</string>
+    <string name="text_three">Text Three</string>
+    <string name="send">SEND</string>
+    <string name="message">Message</string>
+    <string name="open_website">Open website</string>
+    <string name="open_location">Open Location</string>
+    <string name="share_text">Share Text</string>
+    <string name="call">Call</string>
+</resources>
